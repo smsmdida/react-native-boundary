@@ -8,9 +8,9 @@ import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
 
-import androidx.annotation.Nullable;
-import androidx.core.app.NotificationCompat;
-import androidx.core.content.ContextCompat;
+import android.support.annotation.Nullable;
+import android.support.v7.app.NotificationCompat;
+import android.support.v4.content.ContextCompat;
 
 import com.eddieowens.R;
 import com.facebook.react.HeadlessJsTaskService;
